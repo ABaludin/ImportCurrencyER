@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Import currency ER">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 124129786 - NamedType 420700410" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The %1 call to the web service failed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AWR_Import currency ER - NamedType Text001_Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 124129786 - NamedType 3234760735" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The web service returned an error message:\ Status code: %1\ Description: %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AWR_Import currency ER - NamedType Text002_Err</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2012954646 - Action 3361302908 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4081634891">
+          <source>Downloading exchange rates from the ECB</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AWR_Currencies - Action AWR_ImportCurrencyRates - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
